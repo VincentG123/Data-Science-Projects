@@ -1,4 +1,3 @@
-# Data-Science-Projects
 Hello there! 
 
 Thank you for taking the time to look at my various Data Science projects!
