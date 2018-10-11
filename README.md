@@ -12,7 +12,7 @@ What makes a movie a hit? This analysis looks at movie data to discover the comm
 ### Analysis of Health and Fitness Data
 Obesity has become an American epidemic and this analysis is an attempt to discover its root causes.
 
-### Supervised Learning Analysis of Speed Dating Data:
+### Supervised Learning Analysis of Speed Dating Data
 How can you attract the perfect mate? This analysis using Supervised Learning techniques attempts to answer that question... and it's not necessarly what you'd expect.
 
 ### Natural Language Processing of Poetry
